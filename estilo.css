@@ -121,16 +121,7 @@ h2{
 }
 
 
-h2{
-    font-size: 40px;
-    text-align: center;
-    padding: 20px;
-    color: #8D6CDF;
-}
-.imgster{
-    width: 280px;
-    height: 200px;
-}
+
 
 
 .contenedor-footer {
@@ -159,7 +150,13 @@ footer {
 .img-footer{
     width: 55px;
 }
-.cont-section{
+
+
+.contendor-section{
+    padding-bottom: 30px;
+    
+}
+.cont-servicios{
     width: 90%;
     margin:auto;
     display: flex;
@@ -179,5 +176,14 @@ footer {
     padding: 15px;
 }
 
-
+h2{
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+    color: #8D6CDF;
+}
+.imgster{
+    width: 280px;
+    height: 200px;
+}
 
